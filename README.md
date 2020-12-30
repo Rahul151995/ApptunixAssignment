@@ -12,5 +12,4 @@ Note: Just create a connection, then listen and emit to the socket (no need of d
 
 
 # Hosted Link
-    
-    [Click Here](http://apptunix-app.surge.sh)
+[Click Here](http://apptunix-app.surge.sh)
